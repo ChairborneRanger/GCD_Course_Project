@@ -1,11 +1,12 @@
 ##Code Book
 
 ##Fields
-"subject" - This is an integer identifier for the person 
 
-"activity_code" - This is a integer identifier for the activity
+subject - This is an integer identifier for the person 
 
-"activity" - This is a character string that describes the activity (walking, running, etc.) and is mapped to activity_code
+activity_code - This is a integer identifier for the activity
+
+activity - This is a character string that describes the activity (walking, running, etc.) and is mapped to activity_code
 
 The remaining fields are measurements (see below).  Note that only mean and std measurements are included.  X,Y and Z are the axes involved:
 
